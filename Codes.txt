@@ -30,7 +30,7 @@ function isGoogleSpeed()
     ) {
         return false;
     }
-    return true;
+    return true
 }
 
 + Link read online Google
